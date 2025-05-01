@@ -1,0 +1,39 @@
+
+# Unity tarafından otomatik oluşturulan klasörler
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+
+# Unity cache ve Android dosyaları
+/.gradle/
+*.apk
+*.aab
+
+# Visual Studio / Rider dosyaları
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.idea/
+
+# OS özel dosyalar
+.DS_Store
+Thumbs.db
+
+# Diğer
+*.bak
+*.orig
